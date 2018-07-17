@@ -1,4 +1,4 @@
-import Widget from './widget-event.js';
+import Widget from './widget.js';
 
 /**
  * Элемент управления другим виджетом.
